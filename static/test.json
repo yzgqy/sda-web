@@ -1,0 +1,33 @@
+{
+  "result": [
+    {
+      "id": "191027H0D688PSFW",
+      "name": "Test",
+      "desc": "aaa",
+      "createdAt": 1572186392000,
+      "updatedAt": 1572186392000,
+      "nodeCount": null,
+      "flag": 1,
+      "status": null,
+      "userId": "1",
+      "isStarred": 0,
+      "isArchived": 0
+    },
+    {
+      "id": "190602BGHTW3K8X4",
+      "name": "cargo",
+      "desc": "dddsample",
+      "createdAt": 1559463097000,
+      "updatedAt": 1559490763000,
+      "nodeCount": null,
+      "flag": 1,
+      "status": null,
+      "userId": "1",
+      "isStarred": 1,
+      "isArchived": 0
+    }
+  ],
+  "pageNum": 1,
+  "pageSize": 10,
+  "total": 2
+}
